@@ -1,0 +1,52 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    margin-right: 200px;
+}
+.details{
+    font-size: 40px;
+}
+#name{
+    font-size: 56px;
+    font-weight: 600;
+}
+.skills{
+    font-size: 20px;
+}
+#year{
+    font-size: 30px;
+}
+.details{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+#photo img{
+    margin-left: 300px;
+}
+#socialmedia{
+    height: 17px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+p{
+    padding: 10px;
+}
+
+
