@@ -8,10 +8,13 @@ body{
     background-size: 100% ;
     background-repeat: no-repeat;
 }
-nav{
+nav {
     display: flex;
     justify-content: center;
     padding: 20px;
+}
+a:hover{
+    transform: scale(1.2);
 }
 .content{
     display: flex;
