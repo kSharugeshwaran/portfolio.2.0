@@ -3,8 +3,10 @@
     margin: 0px;
 }
 body{
-    background-color: black;
-    color: white;
+    background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700434294.jpg);
+    color: rgb(255, 255, 255);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 nav{
     display: flex;
@@ -36,6 +38,7 @@ nav{
 }
 #photo img{
     margin-left: 300px;
+    border-radius: 35px;
 }
 #socialmedia{
     height: 30px;
